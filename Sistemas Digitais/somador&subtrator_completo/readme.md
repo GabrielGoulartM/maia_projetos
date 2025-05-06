@@ -20,7 +20,7 @@ Após a simulação no Circuitverse estar completa e funcionando corretamente, p
 
 Este repositório contém os arquivos utilizados para a simulação e montagem do projeto, incluindo:
 
-- **Circuitverse**: Arquivo de simulação do somador e subtrator.
+- **Circuitverse**: imagem do circuito do somador e subtrator.
 - **Tinkercad**: Arquivo com a montagem física do circuito.
 
 ---
