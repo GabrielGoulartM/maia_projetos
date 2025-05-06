@@ -1,4 +1,4 @@
-Somador e Subtrator Completo
+# Somador e Subtrator Completo
 
 📘 **Descrição do Projeto**  
 Para o projeto de grau A da minha disciplina de **Sistemas Digitais**, tive a tarefa de projetar e implementar um **somador e subtrator completo**. Este projeto envolveu tanto a parte teórica quanto a prática de **lógica combinacional** e **sequencial**.
