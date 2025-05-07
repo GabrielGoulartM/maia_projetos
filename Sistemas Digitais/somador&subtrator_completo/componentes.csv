@@ -1,0 +1,11 @@
+﻿Nome,Quantidade,Componente
+"SW1, SW2",2," Interruptor DIP DPST x 4"
+"SW3",1," Interruptor DIP DPST"
+"U1, U6, U8, U15",4," Porta quad XOR"
+"U2, U5, U7, U14",4," Porta quad AND"
+"U3, U4, U9, U13",4," Porta quad OR"
+"D1, D2, D7, D3, D4",5,"Vermelho LED"
+"R4, R3, R5, R1, R10",5,"470 Ω Resistor"
+"R2, R6, R7, R8, R12, R13, R14, R15, R9",9,"10 kΩ Resistor"
+"Meter1",1,"Tensão Multímetro"
+"P1",1,"5 , 5  Fonte de energia"
