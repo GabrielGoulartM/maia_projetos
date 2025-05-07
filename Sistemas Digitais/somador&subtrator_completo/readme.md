@@ -27,11 +27,11 @@ Este repositório contém os arquivos utilizados para a simulação e montagem d
 ## 👁️ Demonstção
 
 ### 🔌 Imagem do circuito no Circuitverse:
-![Circuito no Circuitverse](circuito.jpeg)
+![Circuito no Circuitverse](https://github.com/GabrielGoulartM/maia_projetos/blob/46820d1d225bb964942850b4f67b8165db5cf27e/Sistemas%20Digitais/somador%26subtrator_completo/circuito.jpeg)
 
 
 ### ▶️ Funcionamento do circuito (GIF):
-![Funcionamento do circuito](https://github.com/GabrielGoulartM/maia_projetos/blob/b9a25ec7bd2cb2587aabda4e25a0d505f53c59c9/Sistemas%20Digitais/somador%26subtrator_completo/Funcionamento_do_somador%26Subtrator.gif)
+![Funcionamento do circuito](https://github.com/GabrielGoulartM/maia_projetos/blob/46820d1d225bb964942850b4f67b8165db5cf27e/Sistemas%20Digitais/somador%26subtrator_completo/Funcionamento_do_somador%26Subtrator.gif)
 
 ### 🔗 Link para o projeto no Tinkercad:
 [Ver montagem no Tinkercad](https://www.tinkercad.com/things/7tI9P2eOnP4-terrific-bruticus-densor/editel?returnTo=%2Fthings%2F7tI9P2eOnP4-terrific-bruticus-densor&sharecode=XwYSBXLDj1PVxYlYSl5PV1y1hnKo4KhlZibH_zvs0aU)
