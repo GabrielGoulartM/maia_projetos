@@ -13,6 +13,15 @@ Este repositório é uma vitrine do que venho construindo e aprendendo, reunindo
 
 ---
 
+| Conteúdo             | Semestre | Linguagem/Ferramentas           |  
+|---------------------|----------|----------------------------------|
+| [Sistemas Digitais](https://github.com/GabrielGoulartM/maia_projetos/tree/c1556f6e15950468b01bd2706937a2bd3c8937e4/Sistemas%20Digitais)   | Optativa       | Circuitverse, Tinkercad         
+
+
+
+
+---
+
 ## 📁 Estrutura do Repositório
 
 Os projetos estão organizados por disciplina, com subpastas para cada projeto, protótipo ou experimento.  
@@ -35,3 +44,10 @@ Se quiser conversar, colaborar ou apenas trocar ideia sobre tecnologia:
 ---
 
 🚀 _Em constante evolução. Novos projetos serão adicionados conforme a jornada continua._
+
+
+
+
+
+
+
