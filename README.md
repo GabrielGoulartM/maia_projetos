@@ -38,8 +38,7 @@ Sinta-se à vontade para explorar o repositório!
 Se quiser conversar, colaborar ou apenas trocar ideia sobre tecnologia:
 
 - 📧 **gabrielmaia18@gmail.com**  
-- 📸 **Instagram Tech:** [@maia.hex](https://instagram.com/maia.hex) *(em construção)*  
-- 💼 **LinkedIn (em breve)**
+- 💼 **LinkedIn: https://www.linkedin.com/in/gabrielgoulartm/**
 
 ---
 
