@@ -13,7 +13,7 @@ Os projetos abaixo estão organizados por tipo e complexidade. Cada pasta conté
 
 ### ✅ Projetos já disponíveis
 
-- `somador & subtrator_completo/`  
+[- `somador & subtrator_completo/`  ](https://github.com/GabrielGoulartM/maia_projetos/tree/main/Sistemas%20Digitais/somador%26subtrator_completo)
   ➤ Implementação de um somador & Subtrator completo usando portas lógicas básicas.
 
 
