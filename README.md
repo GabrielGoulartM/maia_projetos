@@ -15,7 +15,7 @@ Este repositório é uma vitrine do que venho construindo e aprendendo, reunindo
 
 | Conteúdo             | Semestre | Linguagem/Ferramentas           |  
 |---------------------|----------|----------------------------------|
-| [Sistemas Digitais](https://github.com/GabrielGoulartM/maia_projetos/tree/c1556f6e15950468b01bd2706937a2bd3c8937e4/Sistemas%20Digitais)   | Optativa       | Circuitverse, Tinkercad         
+| [Sistemas Digitais](https://github.com/GabrielGoulartM/maia_projetos/tree/main/Sistemas%20Digitais)   | Optativa       | Circuitverse, Tinkercad         
 
 
 
