@@ -18,7 +18,7 @@ Este projeto apresenta o desenvolvimento de um contador síncrono utilizando Fli
 
 ## 🖥️ Demonstração  
 
-<img src="f500f360-9e49-4cba-9f40-e39e26eaf4ea.png" width="600"/>  
+<img src="https://github.com/GabrielGoulartM/maia_projetos/blob/635f07e938fa5a1d192d48e3eabf76cf428ed2b5/Sistemas%20Digitais/Contador/contador%20anel.gif" width="600"/>  
 
 ![Demonstração do circuito](seu-gif-aqui.gif)  
 
