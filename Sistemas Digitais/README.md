@@ -16,7 +16,7 @@ Os projetos abaixo estão organizados por tipo e complexidade. Cada pasta conté
 [- `Somador & subtrator_completo/`  ](https://github.com/GabrielGoulartM/maia_projetos/tree/main/Sistemas%20Digitais/somador%26subtrator_completo)
   ➤  Implementação de um somador & Subtrator completo usando portas lógicas básicas.
   
-[- `Contador/`  ](https://github.com/GabrielGoulartM/maia_projetos/tree/a9f943ce3472a760a50260ace092144567f69e4c/Sistemas%20Digitais/multiplexador)
+[- `Multiplexador/`  ](https://github.com/GabrielGoulartM/maia_projetos/tree/a9f943ce3472a760a50260ace092144567f69e4c/Sistemas%20Digitais/multiplexador)
   ➤  Multiplexador simples, usado apenas para estudar a lógica do circuito.
 
 [- `Contador Síncrono/`  ](https://github.com/GabrielGoulartM/maia_projetos/tree/a730e6d4eb7f1c240959e30750a9aa0a5db2f67a/Sistemas%20Digitais/Contador)
