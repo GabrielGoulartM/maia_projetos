@@ -16,7 +16,7 @@ Este repositório é uma vitrine do que venho construindo e aprendendo, reunindo
 | Conteúdo             | Semestre | Linguagem/Ferramentas           |  
 |---------------------|----------|----------------------------------|
 | [Sistemas Digitais](https://github.com/GabrielGoulartM/maia_projetos/tree/main/Sistemas%20Digitais)   | Optativa       | Circuitverse, Tinkercad
-| [Arquitetura de computadores]()   |   5º    | Neander, Assembly
+| [Arquitetura de computadores](https://github.com/GabrielGoulartM/maia_projetos/tree/58e51c038eed85d2229ef84bb0f05ca4f1f499eb/Arquitetura%20de%20computadores)   |   5º    | Neander, Assembly
 
 
 
