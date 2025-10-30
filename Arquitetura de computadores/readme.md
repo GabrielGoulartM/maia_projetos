@@ -8,7 +8,7 @@ Este espaço reúne anotações, exercícios práticos e implementações que de
 ## 📚 Conteúdo
 
 -
-- Experimentos com o **simulador LC-2K** e afubs
+- Experimentos com o **simulador LC-2K** e Assembly
 - Estudos sobre **hazards** (NOOPs, Stalls e Forwarding)
 - Projetos práticos e relatórios de desempenho
 - Projetos com Assembly
@@ -18,8 +18,7 @@ Este espaço reúne anotações, exercícios práticos e implementações que de
 ## 🚀 Objetivo
 
 Este repositório tem como objetivo servir tanto como:
-- Meu **portfólio de aprendizado** em Arquitetura de Computadores  
-- Um espaço aberto para **troca de ideias** e discussão com outros estudantes e entusiastas
+- Meu **portfólio de aprendizado** em Arquitetura de Computadores 
 
 ---
 
