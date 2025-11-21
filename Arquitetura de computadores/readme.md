@@ -10,7 +10,7 @@ Este espaço reúne anotações, exercícios práticos e implementações que de
 - Experimentos com o **simulador LC-2K** e Assembly
 - Estudos sobre **hazards** (NOOPs, Stalls e Forwarding)
 - Projetos práticos e relatórios de desempenho
-- Projetos com Assembly
+- Projetos com Assembly, containers e VM's
 
 ---
 
