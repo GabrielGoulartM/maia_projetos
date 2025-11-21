@@ -7,7 +7,6 @@ Este espaço reúne anotações, exercícios práticos e implementações que de
 
 ## 📚 Conteúdo
 
--
 - Experimentos com o **simulador LC-2K** e Assembly
 - Estudos sobre **hazards** (NOOPs, Stalls e Forwarding)
 - Projetos práticos e relatórios de desempenho
